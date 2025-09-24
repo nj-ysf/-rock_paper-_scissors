@@ -1,0 +1,4 @@
+# write all the files exept Game.java
+*.py
+*.class
+*.js
